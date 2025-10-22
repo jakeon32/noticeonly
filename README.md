@@ -4,7 +4,7 @@ Google Sheets 기반 미니멀 공지사항 시스템 with 상단 배너
 
 ## 🌟 프로젝트 개요
 
-## 배포 페이지
+**배포 페이지**
 https://jakeon32.github.io/noticeonly/
 
 APEC 2025 경주 교통 안내를 위한 심플한 공지사항 시스템입니다. Google Sheets를 데이터베이스로 사용하여 별도의 백엔드 없이 실시간으로 공지사항을 관리할 수 있습니다.
